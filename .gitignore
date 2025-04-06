@@ -1,0 +1,6 @@
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+.env
