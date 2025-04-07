@@ -15,3 +15,19 @@ NewTech is a modern and responsive web interface designed using **HTML, CSS, PHP
 
 ---
 
+## 🚀 Features
+
+- Product list, add, update, and delete pages.
+- Admin and User Sign-in Interfaces.
+- Advanced search and category filtering.
+- Responsive across mobile/tablet/desktop devices.
+- Wishlist and Purchase history sections.
+- Dynamic components using PHP includes.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and adapt it for personal or commercial use.
+
